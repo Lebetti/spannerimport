@@ -1,178 +1,178 @@
-Experimental framework for searching large RDF on GPUs based on key-value storage
-Distributed Kernel Matrix Approximation and Implementation Using Message Passing Interface
-GraphReduce: Large-Scale Graph Analytics on Accelerator-Based HPC Systems
-A system for large-scale visualization of streaming Doppler data
-A Failure Recovery Solution for Transplanting High-Performance Data-Intensive Algorithms from the Cluster to the Cloud
-Parallel Breadth First Search on GPU clusters
-The extraction of feature points from DEM geographic data in Cloud Computing environment
-Software platform VAR for heterogeneous GPGPU-systems
-A CUDA-enabled Hadoop cluster for fast distributed image processing
-ACURDION: An adaptive clustering-based algorithm for tracing large-scale MPI applications
-Task-Tree Based Large-Scale Mosaicking for Massive Remote Sensed Imageries with Dynamic DAG Scheduling
-InterSense: Interconnect Performance Emulator for Future Scale-out Distributed Memory Applications
-Performance Model for Parallel Matrix Multiplication with Dryad: Dataflow Graph Runtime
-GPU accelerated item-based collaborative filtering for big-data applications
-A fast parallel algorithm for counting triangles in graphs using dynamic load balancing
-Remote GPU Virtualization: Is It Useful?
-Towards an Energy-Efficient Tool for Processing the Big Data
-GERBIL: MPI+YARN
-Tight Coupling of R and Distributed Linear Algebra for High-Level Programming with Big Data
-k-Balanced sorting and skew join in MPI and MapReduce
-A Parallel Algorithm to Mine Abnormal Patterns from Satellite Data
-Watershed reengineering: Making Streams Programmable
-Analysis and acceleration of NTRU lattice-based cryptographic system
-Handling Big Data Efficiently by Using Map Reduce Technique
-Design and Optimization of a Big Data Computing Framework Based on CPU/GPU Cluster
-Order-Invariant Real Number Summation: Circumventing Accuracy Loss for Multimillion Summands on Multiple Parallel Architectures
-A GPU-accelerated Density-Based Clustering Algorithm
-An Empirical Study on BLAST Parallel Acceleration
-Optimize Parallel Data Access in Big Data Processing
-Parallelizing K-Means Algorithm for 1-D Data Using MPI
-Accelerating Complex Event Processing through GPUs
-The Visualization of Large Graphs Accelerated by the Parallel Nearest Neighbors Algorithm
-Towards a Collective Layer in the Big Data Stack
-Parallelization of Error Weighted Hashing for Approximate k-Nearest Neighbour Search on GPU-CPU Hybrid
-Hash match on GPU
-DL-MPI: Enabling data locality computation for MPI-based data-intensive applications
-Big Data Computation for Workshop-Based Planning Support
-CUDA Acceleration for AVS2 Loop Filtering
-Connecting the dots: Triangle completion and related problems on large data sets using GPUs
-Real-Time True-Color Synthesis of Remote Sensing Image with CUDA
-Join algorithms on GPUs: A revisit after seven years
-Benchmarking Different MapReduce Implementations for Computer-Aided Hardware Development
-Efficient data classification by GPU-accelerated linear mean squared slack minimization
-Simulation of parallel similarity measure computations for large data sets
-Fast LZW Compression Using a GPU
-Accelerating Apache Hive with MPI for Data Warehouse Systems
-Distributed-memory parallel algorithms for generating massive scale-free networks using preferential attachment model
-Collective Computing for Scientific Big Data Analysis
-On Efficiently Capturing Scientific Properties in Distributed Big Data without Moving the Data: A Case Study in Distributed Structural Biology Using MapReduce
-A GPU-Based Parallel Computing Framework for Accelerating the Reconstruction of q-Ball Imaging
-Large-Scale Reservoir Simulations on Parallel Computers
-Spatial data processing with MapReduce
-Algorithms in ParAFEMImp: A Parallel and Wideband Impedance Extraction Program for Complicated 3-D Geometries
-High Performance Offline and Online Distributed Collaborative Filtering
-Particle Swarm Optimization-Based Impurity Function Band Prioritization Using Weighted Majority Voting for Feature Extraction of High Dimensional Data Sets
-Planar: Parallel lightweight architecture-aware adaptive graph repartitioning
-CUDA-Accelerated Rendering of Fireworks in Nearly Ultra High Definition Videos
-DataMPI: Extending MPI to Hadoop-Like Big Data Computing
-Driving big data with big compute
-Evaluation of SMP Shared Memory Machines for Use with In-Memory and OpenMP Big Data Applications
-Can Network-Offload Based Non-blocking Neighborhood MPI Collectives Improve Communication Overheads of Irregular Graph Algorithms?
-Fast Multi-line Detection and Tracking with CUDA for Vision-Based UAV Autopilot
-SCALER: Scalable parallel file write in HDFS
-A Parallel Algorithm for Compression of Big Next-Generation Sequencing Datasets
-Feliss: Flexible distributed computing framework with light-weight checkpointing
-FlexiMod: Flexible Coexistence Support for Programming Models
-Accelerating HEVC Motion Estimation Using GPU
-A performance model of fast 2D-DCT parallel JPEG encoding using CUDA GPU and SMP-architecture
-Lit: A high performance massive data computing framework based on CPU/GPU cluster
-Using Iterative MapReduce for Parallel Virtual Screening
-Performance modeling in CUDA streams â€” A means for high-throughput data processing
-Super-fast parallel eigenface implementation on GPU for face recognition
-Efficient implementation of apriori algorithm on HDFS using GPU
-A GPU Based SVM Method with Accelerated Kernel Matrix Calculation
-Social Network analysis on Sina Weibo based on K-means algorithm
-A Novel Scalable DBSCAN Algorithm with Spark
-A faster and intelligent steganography detection using Graphics Processing Unit in cloud
-Accelerating IEEE 1857 Deblocking Filter on GPU Using CUDA
-Enabling point pattern analysis on spatial big data using cloud computing: optimizing and accelerating Ripley’s K function
-Parallelization of Error Weighted Hashing for Approximate k-Nearest Neighbour Search on GPU-CPU Hybrid
-Energy efficient job co-scheduling for high-performance parallel computing clusters
-MPI derived datatypes and data communication analysis in meteorological applications
-A general accelerated R package using GPU
-Remote GPU Virtualization: Is It Useful?
-OpenCL caffe: Accelerating and enabling a cross platform machine learning framework
-Real-Time True-Color Synthesis of Remote Sensing Image with CUDA
-Fast LZW Compression Using a GPU
-Spatial data processing with MapReduce
-The extraction of feature points from DEM geographic data in Cloud Computing environment
-SPIDAL Java: High performance data analytics with Java and mpi on large multicore HPC clusters
-A parallel algorithm for LZW decompression"
-Kernel optimization on short-range potentials computations in molecular dynamics simulations
-A performance characterization of streaming computing on supercomputers
-GiGA: Giraph-based genome assembler for gigabase scale genomes
-Efficient evidence accumulation clustering for large datasets
-ACURDION: An adaptive clustering-based algorithm for tracing large-scale MPI applications
-Big data computation for workshop-based planning support
-Join algorithms on GPUs: A revisit after seven years
-Collective Computing for Scientific Big Data Analysis
-A Parallel Algorithm for Compression of Big Next-Generation Sequencing Datasets
-Comparison of hardware accelerators for some ALICE online computing applications
-InterSense: Interconnect Performance Emulator for Future Scale-out Distributed Memory Applications
-Fault tolerant MapReduce-MPI for HPC clusters
-Examining recent many-core architectures and programming models using SHOC
-GraphReduce: Large-Scale Graph Analytics on Accelerator-Based HPC Systems
-Parallelizing the deflate compression algorithm on GPU
-A time-energy performance analysis of MapReduce on heterogeneous systems with GPUs
-A GPU Based SVM Method with Accelerated Kernel Matrix Calculation
-SIMD parallel MCMC sampling with applications for big-data Bayesian analytics
-Super-fast parallel eigenface implementation on GPU for face recognition
-Parallel breadth first search on GPU clusters
-Performance modeling in CUDA streams - A means for high-throughput data processing
-K-Balanced sorting and skew join in MPI and MapReduce
-CUDAGA: A portable parallel programming model for GPU cluster
-A hybrid MPI+OpenMP application for processing big trajectory data
-MPJ express meets YARN: Towards Java HPC on Hadoop systems
-Big data analytics in the cloud: Spark on Hadoop vs MPI/OpenMP on Beowulf
-On scalable data mining techniques for earth science
-Reservoir simulation prototyping platform for high performance computing
-Accelerating Apache Hive with MPI for Data Warehouse Systems
-Accelerating IEEE 1857 Deblocking Filter on GPU Using CUDA
-GPU accelerated dynamic functional connectivity analysis for functional MRI data
-OpenDBDDAS toolkit: Secure MapReduce and Hadoop-like systems
-Gerbil: MPI+YARN
-A GPU-accelerated density-based clustering algorithm
-Accelerating keyword search for big RDF web data on many-core systems
-Big data conditional business rule calculations in multidimensional in-GPU-memory OLAP databases
-Efficient implementation of apriori algorithm on HDFS using GPU
-UNIO: A unified I/O system framework for hybrid scientific workflow
-Optimize parallel data access in big data processing
-FlexiMod: Flexible coexistence support for programming models
-A faster and intelligent steganography detection using graphics processing unit in cloud
-GPU implementation of the simplex identification via split augmented Lagrangian
-A straightforward implementation of a GPU-accelerated ELM in R with NVIDIA graphic cards
-Visual exploration of data with multithread MIC computer architectures
-MapReduce: Simplified Data Analysis of Big Data
-SoC-based pattern recognition systems for Non Destructive Testing
-Handling big data efficiently by using map reduce technique
-Enabling vehicular data with distributed machine learning
-HPC in Big Data Age: An evaluation report for Java-based data-intensive applications implemented with hadoop and OpenMPI
-Benchmarking Different MapReduce Implementations for Computer-Aided Hardware Development
-A performance model of fast 2D-DCT parallel JPEG encoding using CUDA GPU and SMP-architecture
-A failure recovery solution for transplanting high-performance data-intensive algorithms from the cluster to the cloud
-SCALER: Scalable parallel file write in HDFS
-DataMPI: Extending MPI to hadoop-like big data computing
-Towards an energy-efficient tool for processing the big data
-Design and optimization of a big data computing framework based on CPU/GPU cluster
-Machine learning big data framework and analytics for big data problems
-Efficient data classification by GPU-accelerated linear mean squared slack minimization
-Scalable CAIM discretization on multiple GPUs using concurrent kernels
-Performance benefits of dataMPI: A case study with bigdatabench
-Performance Benefits of DataMPI: A Case Study with BigDataBench
-Analysis and acceleration of NTRU lattice-based cryptographic system
-Towards a collective layer in the big data stack
-GPU-based regression analysis on sparse grids
-MPI for Big Data: New tricks for an old dog
-DSIMBench: A benchmark for microarray data using R
-Fast multi-line detection and tracking with CUDA for vision-based UAV autopilot
-Distributed stochastic ADMM for matrix factorization
-Task-tree based large-scale mosaicking for massive remote sensed imageries with dynamic DAG scheduling
-SDAFT: A novel scalable data access framework for parallel BLAST
-Slam: Scalable Locality-Aware Middleware for I/O in scientific analysis and visualization
-Connecting the dots: Triangle completion and related problems on large data sets using GPUs
-Parallelizing K-means algorithm for 1-D data using MPI
-Accelerating BIRCH for clustering large scale streaming data using CUDA dynamic parallelism
-A CUDA-enabled hadoop cluster for fast distributed image processing
-Lit: A high performance massive data computing framework based on CPU/GPU cluster
-GPU accelerated item-based collaborative filtering for big-data applications
-Experimental framework for searching large RDF on GPUs based on key-value storage
-Hardware for big data"
-Hash match on GPU
-Distributed-memory parallel algorithms for generating massive scale-free networks using preferential attachment model
-Using iterative MapReduce for parallel virtual screening
-GPGPU-accelerated interesting interval discovery and other computations on GeoSpatial datasets - A summary of results
-Distributed kernel matrix approximation and implementation using message passing interface
-Particle swarm optimization-based impurity function band prioritization using weighted majority voting for feature extraction of high dimensional data sets
-Driving big data with big compute
-Performance model for parallel matrix multiplication with Dryad: Dataflow graph runtime
+1,Experimental framework for searching large RDF on GPUs based on key-value storage
+2,Distributed Kernel Matrix Approximation and Implementation Using Message Passing Interface
+3,GraphReduce: Large-Scale Graph Analytics on Accelerator-Based HPC Systems
+4,A system for large-scale visualization of streaming Doppler data
+5,A Failure Recovery Solution for Transplanting High-Performance Data-Intensive Algorithms from the Cluster to the Cloud
+6,Parallel Breadth First Search on GPU clusters
+7,The extraction of feature points from DEM geographic data in Cloud Computing environment
+8,Software platform VAR for heterogeneous GPGPU-systems
+9,A CUDA-enabled Hadoop cluster for fast distributed image processing
+10,ACURDION: An adaptive clustering-based algorithm for tracing large-scale MPI applications
+11,Task-Tree Based Large-Scale Mosaicking for Massive Remote Sensed Imageries with Dynamic DAG Scheduling
+12,InterSense: Interconnect Performance Emulator for Future Scale-out Distributed Memory Applications
+13,Performance Model for Parallel Matrix Multiplication with Dryad: Dataflow Graph Runtime
+14,GPU accelerated item-based collaborative filtering for big-data applications
+15,A fast parallel algorithm for counting triangles in graphs using dynamic load balancing
+16,Remote GPU Virtualization: Is It Useful?
+17,Towards an Energy-Efficient Tool for Processing the Big Data
+18,GERBIL: MPI+YARN
+19,Tight Coupling of R and Distributed Linear Algebra for High-Level Programming with Big Data
+20,k-Balanced sorting and skew join in MPI and MapReduce
+21,A Parallel Algorithm to Mine Abnormal Patterns from Satellite Data
+22,Watershed reengineering: Making Streams Programmable
+23,Analysis and acceleration of NTRU lattice-based cryptographic system
+24,Handling Big Data Efficiently by Using Map Reduce Technique
+25,Design and Optimization of a Big Data Computing Framework Based on CPU/GPU Cluster
+26,Order-Invariant Real Number Summation: Circumventing Accuracy Loss for Multimillion Summands on Multiple Parallel Architectures
+27,A GPU-accelerated Density-Based Clustering Algorithm
+28,An Empirical Study on BLAST Parallel Acceleration
+29,Optimize Parallel Data Access in Big Data Processing
+30,Parallelizing K-Means Algorithm for 1-D Data Using MPI
+31,Accelerating Complex Event Processing through GPUs
+32,The Visualization of Large Graphs Accelerated by the Parallel Nearest Neighbors Algorithm
+33,Towards a Collective Layer in the Big Data Stack
+34,Parallelization of Error Weighted Hashing for Approximate k-Nearest Neighbour Search on GPU-CPU Hybrid
+35,Hash match on GPU
+36,DL-MPI: Enabling data locality computation for MPI-based data-intensive applications
+37,Big Data Computation for Workshop-Based Planning Support
+38,CUDA Acceleration for AVS2 Loop Filtering
+39,Connecting the dots: Triangle completion and related problems on large data sets using GPUs
+41,Real-Time True-Color Synthesis of Remote Sensing Image with CUDA
+42,Join algorithms on GPUs: A revisit after seven years
+43,Benchmarking Different MapReduce Implementations for Computer-Aided Hardware Development
+44,Efficient data classification by GPU-accelerated linear mean squared slack minimization
+45,Simulation of parallel similarity measure computations for large data sets
+46,Fast LZW Compression Using a GPU
+47,Accelerating Apache Hive with MPI for Data Warehouse Systems
+48,Distributed-memory parallel algorithms for generating massive scale-free networks using preferential attachment model
+49,Collective Computing for Scientific Big Data Analysis
+50,On Efficiently Capturing Scientific Properties in Distributed Big Data without Moving the Data: A Case Study in Distributed Structural Biology Using MapReduce
+51,A GPU-Based Parallel Computing Framework for Accelerating the Reconstruction of q-Ball Imaging
+52,Large-Scale Reservoir Simulations on Parallel Computers
+53,Spatial data processing with MapReduce
+54,Algorithms in ParAFEMImp: A Parallel and Wideband Impedance Extraction Program for Complicated 3-D Geometries
+55,High Performance Offline and Online Distributed Collaborative Filtering
+56,Particle Swarm Optimization-Based Impurity Function Band Prioritization Using Weighted Majority Voting for Feature Extraction of High Dimensional Data Sets
+57,Planar: Parallel lightweight architecture-aware adaptive graph repartitioning
+58,CUDA-Accelerated Rendering of Fireworks in Nearly Ultra High Definition Videos
+59,DataMPI: Extending MPI to Hadoop-Like Big Data Computing
+60,Driving big data with big compute
+61,Evaluation of SMP Shared Memory Machines for Use with In-Memory and OpenMP Big Data Applications
+62,Can Network-Offload Based Non-blocking Neighborhood MPI Collectives Improve Communication Overheads of Irregular Graph Algorithms?
+63,Fast Multi-line Detection and Tracking with CUDA for Vision-Based UAV Autopilot
+64,SCALER: Scalable parallel file write in HDFS
+65,A Parallel Algorithm for Compression of Big Next-Generation Sequencing Datasets
+66,Feliss: Flexible distributed computing framework with light-weight checkpointing
+67,FlexiMod: Flexible Coexistence Support for Programming Models
+68,Accelerating HEVC Motion Estimation Using GPU
+69,A performance model of fast 2D-DCT parallel JPEG encoding using CUDA GPU and SMP-architecture
+70,Lit: A high performance massive data computing framework based on CPU/GPU cluster
+71,Using Iterative MapReduce for Parallel Virtual Screening
+72,Performance modeling in CUDA streams â€” A means for high-throughput data processing
+73,Super-fast parallel eigenface implementation on GPU for face recognition
+74,Efficient implementation of apriori algorithm on HDFS using GPU
+75,A GPU Based SVM Method with Accelerated Kernel Matrix Calculation
+76,Social Network analysis on Sina Weibo based on K-means algorithm
+77,A Novel Scalable DBSCAN Algorithm with Spark
+78,A faster and intelligent steganography detection using Graphics Processing Unit in cloud
+79,Accelerating IEEE 1857 Deblocking Filter on GPU Using CUDA
+80,Enabling point pattern analysis on spatial big data using cloud computing: optimizing and accelerating Ripley’s K function
+81,Parallelization of Error Weighted Hashing for Approximate k-Nearest Neighbour Search on GPU-CPU Hybrid
+82,Energy efficient job co-scheduling for high-performance parallel computing clusters
+83,MPI derived datatypes and data communication analysis in meteorological applications
+84,A general accelerated R package using GPU
+85,Remote GPU Virtualization: Is It Useful?
+86,OpenCL caffe: Accelerating and enabling a cross platform machine learning framework
+87,Real-Time True-Color Synthesis of Remote Sensing Image with CUDA
+88,Fast LZW Compression Using a GPU
+89,Spatial data processing with MapReduce
+90,The extraction of feature points from DEM geographic data in Cloud Computing environment
+91,SPIDAL Java: High performance data analytics with Java and mpi on large multicore HPC clusters
+92,A parallel algorithm for LZW decompression"
+93,Kernel optimization on short-range potentials computations in molecular dynamics simulations
+94,A performance characterization of streaming computing on supercomputers
+95,GiGA: Giraph-based genome assembler for gigabase scale genomes
+96,Efficient evidence accumulation clustering for large datasets
+97,ACURDION: An adaptive clustering-based algorithm for tracing large-scale MPI applications
+98,Big data computation for workshop-based planning support
+99,Join algorithms on GPUs: A revisit after seven years
+100,Collective Computing for Scientific Big Data Analysis
+101,A Parallel Algorithm for Compression of Big Next-Generation Sequencing Datasets
+102,Comparison of hardware accelerators for some ALICE online computing applications
+103,InterSense: Interconnect Performance Emulator for Future Scale-out Distributed Memory Applications
+104,Fault tolerant MapReduce-MPI for HPC clusters
+105,Examining recent many-core architectures and programming models using SHOC
+106,GraphReduce: Large-Scale Graph Analytics on Accelerator-Based HPC Systems
+107,Parallelizing the deflate compression algorithm on GPU
+108,A time-energy performance analysis of MapReduce on heterogeneous systems with GPUs
+109,A GPU Based SVM Method with Accelerated Kernel Matrix Calculation
+110,SIMD parallel MCMC sampling with applications for big-data Bayesian analytics
+111,Super-fast parallel eigenface implementation on GPU for face recognition
+112,Parallel breadth first search on GPU clusters
+113,Performance modeling in CUDA streams - A means for high-throughput data processing
+114,K-Balanced sorting and skew join in MPI and MapReduce
+115,CUDAGA: A portable parallel programming model for GPU cluster
+116,A hybrid MPI+OpenMP application for processing big trajectory data
+117,MPJ express meets YARN: Towards Java HPC on Hadoop systems
+118,Big data analytics in the cloud: Spark on Hadoop vs MPI/OpenMP on Beowulf
+119,On scalable data mining techniques for earth science
+120,Reservoir simulation prototyping platform for high performance computing
+121,Accelerating Apache Hive with MPI for Data Warehouse Systems
+122,Accelerating IEEE 1857 Deblocking Filter on GPU Using CUDA
+123,GPU accelerated dynamic functional connectivity analysis for functional MRI data
+124,OpenDBDDAS toolkit: Secure MapReduce and Hadoop-like systems
+125,Gerbil: MPI+YARN
+126,A GPU-accelerated density-based clustering algorithm
+127,Accelerating keyword search for big RDF web data on many-core systems
+128,Big data conditional business rule calculations in multidimensional in-GPU-memory OLAP databases
+129,Efficient implementation of apriori algorithm on HDFS using GPU
+130,UNIO: A unified I/O system framework for hybrid scientific workflow
+131,Optimize parallel data access in big data processing
+132,FlexiMod: Flexible coexistence support for programming models
+133,A faster and intelligent steganography detection using graphics processing unit in cloud
+134,GPU implementation of the simplex identification via split augmented Lagrangian
+135,A straightforward implementation of a GPU-accelerated ELM in R with NVIDIA graphic cards
+136,Visual exploration of data with multithread MIC computer architectures
+137,MapReduce: Simplified Data Analysis of Big Data
+138,SoC-based pattern recognition systems for Non Destructive Testing
+139,Handling big data efficiently by using map reduce technique
+140,Enabling vehicular data with distributed machine learning
+141,HPC in Big Data Age: An evaluation report for Java-based data-intensive applications implemented with hadoop and OpenMPI
+142,Benchmarking Different MapReduce Implementations for Computer-Aided Hardware Development
+143,A performance model of fast 2D-DCT parallel JPEG encoding using CUDA GPU and SMP-architecture
+144,A failure recovery solution for transplanting high-performance data-intensive algorithms from the cluster to the cloud
+145,SCALER: Scalable parallel file write in HDFS
+146,DataMPI: Extending MPI to hadoop-like big data computing
+147,Towards an energy-efficient tool for processing the big data
+148,Design and optimization of a big data computing framework based on CPU/GPU cluster
+149,Machine learning big data framework and analytics for big data problems
+150,Efficient data classification by GPU-accelerated linear mean squared slack minimization
+151,Scalable CAIM discretization on multiple GPUs using concurrent kernels
+152,Performance benefits of dataMPI: A case study with bigdatabench
+153,Performance Benefits of DataMPI: A Case Study with BigDataBench
+154,Analysis and acceleration of NTRU lattice-based cryptographic system
+155,Towards a collective layer in the big data stack
+156,GPU-based regression analysis on sparse grids
+157,MPI for Big Data: New tricks for an old dog
+158,DSIMBench: A benchmark for microarray data using R
+159,Fast multi-line detection and tracking with CUDA for vision-based UAV autopilot
+160,Distributed stochastic ADMM for matrix factorization
+161,Task-tree based large-scale mosaicking for massive remote sensed imageries with dynamic DAG scheduling
+162,SDAFT: A novel scalable data access framework for parallel BLAST
+163,Slam: Scalable Locality-Aware Middleware for I/O in scientific analysis and visualization
+164,Connecting the dots: Triangle completion and related problems on large data sets using GPUs
+165,Parallelizing K-means algorithm for 1-D data using MPI
+166,Accelerating BIRCH for clustering large scale streaming data using CUDA dynamic parallelism
+167,A CUDA-enabled hadoop cluster for fast distributed image processing
+168,Lit: A high performance massive data computing framework based on CPU/GPU cluster
+169,GPU accelerated item-based collaborative filtering for big-data applications
+170,Experimental framework for searching large RDF on GPUs based on key-value storage
+171,Hardware for big data"
+172,Hash match on GPU
+173,Distributed-memory parallel algorithms for generating massive scale-free networks using preferential attachment model
+174,Using iterative MapReduce for parallel virtual screening
+175,GPGPU-accelerated interesting interval discovery and other computations on GeoSpatial datasets - A summary of results
+176,Distributed kernel matrix approximation and implementation using message passing interface
+177,Particle swarm optimization-based impurity function band prioritization using weighted majority voting for feature extraction of high dimensional data sets
+178,Driving big data with big compute
+179,Performance model for parallel matrix multiplication with Dryad: Dataflow graph runtime
